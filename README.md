@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jomerdevs" alt="jomerdevs" /></a> </p>
 
-- 💬 Ask me about **C#, Java,node.js, kotlin**
+- 💬 Ask me about **C#, Java, node.js, kotlin**
 
 - ⚡ Fun fact **I'm a huge fan of anime🧑🏼 and videogames 🎮**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedjomer-sanchez-005187226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedjomer-sanchez-005187226/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jomer-sanchez-005187226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedjomer-sanchez-005187226/" height="30" width="40" /></a>
 <a href="https://instagram.com/jomersanchez_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jomersanchez_" height="30" width="40" /></a>
 </p>
 

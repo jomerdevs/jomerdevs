@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Jomer A.K.A < jomerdevs > :smiley:</h1>
+<h1 align="center">Hi 👋, I'm Jomer A.K.A < jomerdev > :smiley:</h1>
 <h3 align="center">Software Engineer ✅🧑🏻‍💻 passionate about software and constantly learning 💡 since de world 🌎 is the world of technology 💻🖥️ </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jomerdevs&label=Profile%20views&color=0e75b6&style=flat" alt="jomerdevs" /> </p>
